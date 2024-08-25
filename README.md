@@ -6,7 +6,7 @@ I completed forgot to log my progress using Github; so I just put in a random co
 
 Interface
 =====
-<img src="https://github.com/user-attachments/assets/e2f322ef-243f-4c86-b0b5-beb9e0c7561f" width="750">
+https://github.com/user-attachments/assets/e2f322ef-243f-4c86-b0b5-beb9e0c7561f
 
 Screenshots
 =====
